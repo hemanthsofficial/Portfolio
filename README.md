@@ -43,4 +43,4 @@ I’m a passionate **QA Automation Engineer** with expertise in testing **UI** a
 ### 🤝 **Let's Connect**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
-- [Topmate]([https://topmate.io/hemanthsasikumar])
+- [Topmate](https://topmate.io/hemanthsasikumar)
